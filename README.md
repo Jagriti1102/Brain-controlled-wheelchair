@@ -43,6 +43,7 @@ BRAINCONTROLLEDWHEELCHAIR/
     ├── next.config.js       # Next.js configuration
     ├── package-lock.json    # Lockfile for npm
     └── package.json         # npm scripts & dependencies
+```
 
 ## 🛠️ Tech Stack
 
