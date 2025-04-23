@@ -103,7 +103,7 @@ We used EEG recordings from the [Wheel Chair EEG Signals dataset on Kaggle](http
 2. **Backend setup**
    ```bash
    cd backend
-   python3 -m venv myenv
+   python3 -m venv 
    source myenv/bin/activate
    pip install -r requirements.txt
    python app.py
