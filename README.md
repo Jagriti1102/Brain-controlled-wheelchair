@@ -1,6 +1,4 @@
-# Brain Controlled Wheelchair
-
-![Brain Controlled Wheelchair](logo.png)
+# NeuroDrive
 
 ## 📖 Project Description
 
