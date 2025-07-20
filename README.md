@@ -11,6 +11,10 @@ Key objectives:
 - Deploy a RESTful API to serve predictions.
 - Build a frontend simulation for user interaction with the wheelchair.
 
+## Deployment
+
+https://brain-controlled-wheelchair-m0z8662ox.vercel.app
+
 ## 📂 Project Structure
 
 ```
