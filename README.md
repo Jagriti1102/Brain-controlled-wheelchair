@@ -13,7 +13,7 @@ Key objectives:
 
 ## Deployment
 
-https://brain-controlled-wheelchair-m0z8662ox.vercel.app
+[https://brain-controlled-wheelchair-m0z8662ox.vercel.app](https://brain-controlled-wheelchair.vercel.app/)
 
 ## 📂 Project Structure
 
